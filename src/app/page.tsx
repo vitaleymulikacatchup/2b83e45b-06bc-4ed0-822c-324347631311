@@ -79,7 +79,6 @@ export default function Home() {
               { label: "Medium", onClick: () => alert('Medium') }
             ] }
           ]}
-          copyrightText="© 2023 MemeCoin. All rights reserved."
           onPrivacyClick={() => alert('Privacy policy')}
         />
       </div>
