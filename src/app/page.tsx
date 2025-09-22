@@ -79,7 +79,6 @@ export default function Home() {
               { label: "Medium", onClick: () => alert('Medium') }
             ] }
           ]}
-          onPrivacyClick={() => alert('Privacy policy')}
         />
       </div>
     </SiteThemeProvider>
